@@ -1,2 +1,2 @@
-# centos
-Centos Base Image Docker
+# Centos Base Image for Docker
+Centos Avaliable Version 6 & 7.
